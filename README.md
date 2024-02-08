@@ -20,4 +20,12 @@ Para explorar os exercícios e projetos deste repositório, siga estas etapas:
 
 4. Abra o arquivo ```Desafio_Lighthouse_DS.ipynb```.
 
-Fique à vontade para  deixar sua dúvida comentário!
+---
+
+Espero que você goste do projeto. Se você tiver alguma dúvida ou quiser discutir o projeto mais a fundo, por favor, não hesite em entrar em contato comigo!
+
+[linkedin.com/in/fernandohcarneiro/](https://www.linkedin.com/in/fernandohcarneiro/)
+
+[carneiro.fernando@icloud.com](carneiro.fernando@icloud.com)
+
+😉
